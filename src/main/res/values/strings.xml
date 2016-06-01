@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SoS</string>
+    <string name="title_activity_maps">SoS</string>
+    <string name="title_activity_delete_marker">Map</string>
+    <string name="title_activity_accomodation">Map</string>
+    <string name="title_activity_emergency">Map</string>
+    <string name="emergency">Emergency</string>
+    <string name="title_activity_find_family">FindFamily</string>
+    <string name="title_activity_sms">SmsActivity</string>
+    <string name="need">Need Service</string>
+    <string name="provide">Offer Service</string>
+    <string name="police">Police</string>
+    <string name="fire_service">Fire Service</string>
+    <string name="ambulance_service">Ambulance Service</string>
+    <string name="lifeboat_service">LifeBoat Service</string>
+    <string name="stop_alarm">Stop Alarm</string>
+</resources>
